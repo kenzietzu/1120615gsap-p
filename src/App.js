@@ -1,9 +1,3 @@
-import { useRef, useLayoutEffect, useEffect } from "react";
-import {
-  LocomotiveScrollProvider,
-  useLocomotiveScroll,
-} from "react-locomotive-scroll";
-import About from "./components/About";
 import Contact from "./components/Contact";
 import Header from "./components/Header";
 import Works from "./components/Works";
